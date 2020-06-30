@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/terencedignon/step#readme",
   "dependencies": {
-    "prettier": "^2.0.5"
+    "prettier": "^2.0.5",
+    "stylelint": "^13.6.1"
   },
   "devDependencies": {
     "eslint": "^7.3.1",
