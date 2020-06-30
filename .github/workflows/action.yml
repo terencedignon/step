@@ -1,6 +1,12 @@
 name: Lint
 
-on: push
+on:
+  push:
+    paths:
+      - 'portfolio/**'
+  pull:
+    paths:
+      - 'portfolio/**'
 
 jobs:
   run-linters:
