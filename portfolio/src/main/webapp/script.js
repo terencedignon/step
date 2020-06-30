@@ -12,6 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+var HELLO = "something";
+
 function expandImage(imgs) {
   var expandImg = document.getElementById("expandedImg");
   expandImg.src = imgs.src;
