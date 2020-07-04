@@ -23,4 +23,4 @@ jobs:
       with:
         # This part is also where you can pass other options, for example:
         prettier_options: --write **/*.{js,html,md}
-        dry: true
+        dry: false
