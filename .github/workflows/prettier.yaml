@@ -24,3 +24,9 @@ jobs:
         # This part is also where you can pass other options, for example:
         prettier_options: --write **/*.{js,html,md}
         dry: false
+    - name: Prettify code Java
+      uses: creyD/prettier_action@v2.2
+      with:
+        # This part is also where you can pass other options, for example:
+        prettier_options: --write **/*.{java}
+        dry: true
