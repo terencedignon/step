@@ -8,6 +8,7 @@
     "stylelint-config-standard": "^20.0.0"
   },
   "dependencies": {
-    "markuplint": "^1.0.0-alpha.46"
+    "markuplint": "^1.0.0-alpha.46",
+    "prettier": "^2.0.5"
   }
 }
