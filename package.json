@@ -1,0 +1,13 @@
+{
+  "name": "step1-2020",
+  "version": "0.0.1",
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-google": "^0.14.0",
+    "stylelint": "^13.6.1",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "dependencies": {
+    "markuplint": "^1.0.0-alpha.46"
+  }
+}
